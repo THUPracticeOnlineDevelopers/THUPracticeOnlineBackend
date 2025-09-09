@@ -1,0 +1,20 @@
+django
+
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+django-redis
+
+pytest
+pytest-django
+coverage
+pymysql
+cryptography
+
+pandas
+openpyxl
+requests
+
+# TODO Start: [Student] Add dependency on uWSGI
+
+# TODO End: [Student] Add dependency on uWSGI
